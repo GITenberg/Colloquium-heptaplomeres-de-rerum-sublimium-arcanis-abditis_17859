@@ -1,0 +1,51 @@
+body {margin-left: 10%; margin-right: 10%;}
+hr {width: 80%; margin-top: 1em; margin-bottom: 1em;}
+hr.mid {width: 50%;}
+hr.tiny {width: 20%;}
+a.tag {text-decoration: none; vertical-align: .3em; font-size: 80%;
+line-height: 0em; font-style: normal;} 
+
+table {margin-left: auto; margin-right: auto;}
+
+td {vertical-align: top;}
+td.center {text-align: center;}
+td.middle {vertical-align: middle;}
+td.footnote {font-size: 95%; text-align: right; line-height: 1.2;}
+
+h1, h2, h3, h4, h5, h6 {text-align: center; font-weight: normal;
+font-style: normal; margin-top: .5em; margin-bottom: 1em; line-height: 1.3em;}
+
+h1 {font-size: 200%;}
+h2 {font-size: 150%;}
+h3 {font-size: 125%;}
+h4 {font-size: 110%;}
+h5 {font-size: 100%;}
+h6 {font-size: 90%;}
+.chapter {margin-top: 2em;}
+
+p, div {line-height: 1.2em; margin: .8em 0em 0em 0em;}
+.close {margin-top: .4em;}
+
+.verse, .verse3, .couplet {margin-top: 0em;}
+.verse.close, .verse3.close, .couplet.close {margin-top: .4em;}
+.verse {margin-left: 6em;}
+.verse3 {margin-left: 10em;}
+.couplet {margin-left: 7em; text-indent: -1em;}
+
+.footnote {margin: .6em 2em 0em 2em; font-size: 95%;}
+.footnote2 {margin: .6em 3em 0em 4em; font-size: 90%;}
+.footnote.poem {margin-left: 8em;}
+
+span.tag {vertical-align: .3em; font-size: 80%; line-height: 0em;
+font-style: normal;}
+.indent {margin-top: 0em; margin-left: 1.5em;}
+
+ins.correction {text-decoration: none; border-bottom: thin dotted red;}
+.pagenum {position: absolute; right: 4%; font-size: 95%;
+font-weight: normal; font-style: normal; text-align: right;
+color: #666; background-color: inherit;}
+
+.mynote {background-color: #DDE; color: #000; padding: .5em;
+margin: 0em 5%; font-family: sans-serif; font-size: 95%;}
+.mynote.fineprint {font-size: 85%; margin: 0em 10%;}
+.contents {font-family: sans-serif; margin-left: 5em; line-height: 1.5em;}
