@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7655
     wikipedia: http://en.wikipedia.org/wiki/Jean_Bodin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17859#Colloquium-heptaplomeres-de-rerum-sublimium-arcanis-abditis
 gutenberg_issued: '2006-02-26'
 gutenberg_type: Text
 identifiers:
